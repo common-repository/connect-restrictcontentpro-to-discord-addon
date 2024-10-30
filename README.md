@@ -1,0 +1,1 @@
+# restrictcontentpro-discord-addon
